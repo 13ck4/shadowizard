@@ -1,0 +1,22 @@
+{
+  "name": "shadowizardccc",
+  "version": "1.0.6",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13ck4/shadowizard.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "luat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13ck4/shadowizard/issues"
+  },
+  "homepage": "https://github.com/13ck4/shadowizard#readme"
+}
